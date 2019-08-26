@@ -1,28 +1,32 @@
 {
-  "users": [
+  "bmbh": [
     {
       "id": "1",
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "john@gmail.com",
-      "age": 34,
-      "companyId": "1"
-    },
+      "name": "Đinh Đức Tiến",
+      "label": "Bên Mua Bảo Hiểm",
+      "role": 1
+    }
+  ],
+  "ndbhc": [
     {
       "id": "2",
-      "firstName": "Mark",
-      "lastName": "Williams",
-      "email": "mark@gmail.com",
-      "age": 33,
-      "companyId": "1"
+      "name": "Đinh Đức Tiến",
+      "label": "Người Được Bảo Hiểm Chính",
+      "role": 2
+    }
+  ],
+  "ndbhbs": [
+    {
+      "id": 3,
+      "name": "Nguyễn Văn Bổ Sung 1",
+      "label": "Người Được Bảo Hiểm Bổ Sung",
+      "role": 3
     },
     {
-      "id": "3",
-      "firstName": "Sara",
-      "lastName": "Smith",
-      "email": "sara@gmail.com",
-      "age": 23,
-      "companyId": "2"
+      "id": 4,
+      "name": "Nguyễn Văn Bổ Sung 1",
+      "label": "Người Được Bảo Hiểm Bổ Sung",
+      "role": 3
     }
   ],
   "companies": [

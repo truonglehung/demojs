@@ -23,14 +23,6 @@
       "email": "sara@gmail.com",
       "age": 23,
       "companyId": "2"
-    },
-    {
-      "firstName": "Brad",
-      "lastName": "Traversy",
-      "age": 35,
-      "email": "test@test.com",
-      "companyId": "3",
-      "id": "B1Ww3BIS-"
     }
   ],
   "companies": [

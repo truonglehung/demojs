@@ -25,5 +25,63 @@
         "BirthDate": "17/01/1988"
       }
     ]
+  },
+  "jsonDataInput": {
+    "APIToken": "2d3ae37abeb1468dbd263b8ed77dc6de",
+    "Action": "SubmitCustomer",
+    "Authentication": "094A1E47-1C6D-43F3-95BF-C1890048D390",
+    "AgentID": "216452",
+    "DeviceId": "a9db2543b0ce8f70",
+    "ProposalID": "1",
+    "PotentialType": "Illness",
+    "Relationship": "Relationship",
+    "FullName": "FullName",
+    "BirthDate": "1990-01-01",
+    "Age": "30",
+    "Gender": "Gender",
+    "IDNum": "IDNum",
+    "Nationality": "Nationality",
+    "Maturity": "Maturity",
+    "Occupation": "Occupation",
+    "OccupationDetail": "OccupationDetail",
+    "OtherOcc": "OtherOcc",
+    "Income": "100000",
+    "IsTaxAmerican": "0",
+    "CellPhone": "CellPhone",
+    "HomePhone": "HomePhone",
+    "BusinessPhone": "BusinessPhone",
+    "Email": "Email",
+    "Address": "Address",
+    "AddressCode": "AddressCode",
+    "BusinessAddress": "BusinessAddress",
+    "BusinessAddressCode": "BusinessAddressCode",
+    "IsCompany": "0",
+    "Questions": [
+      {
+        "ProposalID": "1",
+        "QuestionNo": "1",
+        "Answer": "1",
+        "Comment": "aaaa"
+      },
+      {
+        "ProposalID": "1",
+        "QuestionNo": "2",
+        "Answer": "1",
+        "Comment": "aaaa"
+      }
+    ],
+    "Products": [
+      {
+        "ProposalID": "1",
+        "ProductType": "UL",
+        "ProductCode": "ULAPP04",
+        "ProductName": "aaaa",
+        "SumAss": "10000",
+        "YPremiumAmt": "100000",
+        "HPremiumAmt": "0",
+        "QPremiumAmt": "0",
+        "MPremiumAmt": "0"
+      }
+    ]
   }
 }

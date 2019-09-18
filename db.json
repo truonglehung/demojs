@@ -24,7 +24,7 @@
         "FullName": "Pham Ngoc Huan",
         "BirthDate": "17/01/1988"
       },
-       {
+      {
         "Address": "",
         "PotentialType": "AI",
         "Gender": "M",
@@ -60,6 +60,16 @@
         "Occupation": "1",
         "FullName": "Pham Ngoc Huan",
         "BirthDate": "17/01/1988"
+      },
+      {
+        "Address": "",
+        "PotentialType": "AI",
+        "Gender": "M",
+        "IDNum": "123452759",
+        "Age": "31",
+        "Occupation": "1",
+        "FullName": "Pham Ngoc Thoai",
+        "BirthDate": "17/01/2000"
       }
     ]
   },

@@ -7,7 +7,7 @@
       {
         "Address": "",
         "PotentialType": "LI",
-         "Gender": "M",
+        "Gender": "M",
         "IDNum": "123456789",
         "Age": "31",
         "Occupation": "1",
@@ -23,6 +23,16 @@
         "Occupation": "1",
         "FullName": "Pham Ngoc Huan",
         "BirthDate": "17/01/1988"
+      },
+       {
+        "Address": "",
+        "PotentialType": "PI",
+        "Gender": "M",
+        "IDNum": "123452759",
+        "Age": "31",
+        "Occupation": "1",
+        "FullName": "Pham Ngoc Thoai",
+        "BirthDate": "17/01/1988"
       }
     ]
   },
@@ -34,7 +44,7 @@
       {
         "Address": "",
         "PotentialType": "LI",
-         "Gender": "M",
+        "Gender": "M",
         "IDNum": "123456789",
         "Age": "31",
         "Occupation": "1",

@@ -7,18 +7,45 @@
       {
         "Address": "",
         "PotentialType": "LI",
-        "Gender": "F",
-        "IDNum": "",
+         "Gender": "M",
+        "IDNum": "123456789",
         "Age": "31",
         "Occupation": "1",
-        "FullName": "avc",
-        "BirthDate": ""
+        "FullName": "Pham Ngoc Huan",
+        "BirthDate": "17/01/1988"
       },
       {
         "Address": "",
         "PotentialType": "PO",
         "Gender": "M",
-        "IDNum": "",
+        "IDNum": "123456789",
+        "Age": "31",
+        "Occupation": "1",
+        "FullName": "Pham Ngoc Huan",
+        "BirthDate": "17/01/1988"
+      }
+    ]
+  },
+  "Response2": {
+    "Result": "true",
+    "ErrLog": "SUCCESSFUL",
+    "NewAPIToken": "",
+    "ClientProfile": [
+      {
+        "Address": "",
+        "PotentialType": "LI",
+         "Gender": "M",
+        "IDNum": "123456789",
+        "Age": "31",
+        "Occupation": "1",
+        "FullName": "Pham Ngoc AAA",
+        "BirthDate": "17/01/1988"
+      },
+      {
+        "Address": "",
+        "PotentialType": "PO",
+        "Gender": "M",
+        "IDNum": "123456779",
         "Age": "31",
         "Occupation": "1",
         "FullName": "Pham Ngoc Huan",

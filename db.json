@@ -73,6 +73,33 @@
       }
     ]
   },
+  "Response3": {
+    "Result": "true",
+    "ErrLog": "SUCCESSFUL",
+    "NewAPIToken": "",
+    "ClientProfile": [
+      {
+        "Address": "68 Hậu Giang Quận 6",
+        "PotentialType": "PO",
+        "Gender": "M",
+        "IDNum": "2142152151",
+        "Age": "28",
+        "Occupation": "1",
+        "FullName": "Nguyễn Văn Tý",
+        "BirthDate": "12/09/1991"
+      },
+      {
+        "Address": "",
+        "PotentialType": "LI",
+        "Gender": "F",
+        "IDNum": "",
+        "Age": "5",
+        "Occupation": "1",
+        "FullName": "Nguyễn Văn Tèo",
+        "BirthDate": "12/09/2014"
+      }
+    ]
+  },
   "jsonDataInput": {
     "APIToken": "2d3ae37abeb1468dbd263b8ed77dc6de",
     "Action": "SubmitCustomer",
